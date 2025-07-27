@@ -6,6 +6,8 @@ Absolutely_No_ Pack currently contains:
 2. Absolutely_No_Fungus 🍄
 3. Absolutely_No_Triffids 🌱
 
+To download, click the 'Releases' button on the righthand sidebar and follow the instructions in the description.
+
 These are packed individually, so you can use one, some, or all of them together.
 
 This was not created to take anything away from how the base game was meant to be played - but rather it was designed for custom runs (such as MA_Mod) where Ants/Fungus/Triffids, or anything that mass spawns from nearby locations, can degrade the overall experience.
