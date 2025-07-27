@@ -1,0 +1,14 @@
+{
+    "type": "MOD_INFO",
+    "id": "No_Triffids",
+    "name": "Absolutely No Triffids",
+    "authors": [
+        "Opie"
+    ],
+    "description": "Removes triffid monsters and regions from the game.",
+    "category": "monster_exclude",
+    "dependencies": [
+        "dda"
+    ],
+    "obsolete": false
+}

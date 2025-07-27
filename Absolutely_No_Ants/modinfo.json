@@ -1,0 +1,14 @@
+{
+    "type": "MOD_INFO",
+    "id": "No_Ants",
+    "name": "Absolutely No Ants",
+    "authors": [
+        "Opie"
+    ],
+    "description": "Removes Ant monsters and regions from the game.",
+    "category": "monster_exclude",
+    "dependencies": [
+        "dda"
+    ],
+    "obsolete": false
+}
